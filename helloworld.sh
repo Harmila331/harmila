@@ -1,5 +1,5 @@
-echo "hello world"
-echo "enter a value"
 read a
-echo $a
-
+read b
+c = a + b
+echo $c
+:
